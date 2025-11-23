@@ -26,7 +26,7 @@ ARB_FILE="arb-${ARB_VER}.tar.gz"
 
 GMP_URL="https://ftp.gnu.org/gnu/gmp/${GMP_FILE}"
 MPFR_URL="https://ftp.gnu.org/gnu/mpfr/${MPFR_FILE}"
-FLINT_URL="http://flintlib.org/${FLINT_FILE}"
+FLINT_URL="http://flintlib.org/download/${FLINT_FILE}"
 ARB_URL="https://github.com/fredrik-johansson/arb/archive/${ARB_VER}.tar.gz"
 
 BUILD_DIR="deps_build_${ARCH}"
